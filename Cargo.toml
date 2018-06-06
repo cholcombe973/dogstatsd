@@ -1,0 +1,8 @@
+[package]
+name = "dogstatsd"
+version = "0.1.0"
+authors = ["Chris Holcombe <xfactor973@gmail.com>"]
+license = "MIT"
+
+[dependencies]
+indexmap = "~1.0"
