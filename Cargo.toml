@@ -1,8 +1,12 @@
 [package]
 name = "dogstatsd"
-version = "0.1.0"
 authors = ["Chris Holcombe <xfactor973@gmail.com>"]
+description = "Simple implementation of the datadog statsd protocol"
+documentation = "https://docs.rs/dogstatsd"
+homepage = "https://github.com/cholcombe973/dogstatsd"
 license = "MIT"
+repository = "https://github.com/cholcombe973/dogstatsd"
+version = "0.1.0"
 
 [dependencies]
 indexmap = "~1.0"
